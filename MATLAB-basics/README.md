@@ -2,7 +2,7 @@
 
 The pdf files are also provided with each script file for ease of reading.
 
-Follow along the scripts from 1 to 7 for a proper learning flow.
+Follow along the [scripts](https://github.com/devprabal/myMLsoln_AndrewNg/tree/master/MATLAB-basics) from [1](https://github.com/devprabal/myMLsoln_AndrewNg/raw/master/MATLAB-basics/matlab_basics1.pdf) to 7 for a proper learning flow.
 
 Use Octave or MATLAB for carrying out your experiments.
 
